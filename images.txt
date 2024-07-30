@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 gitlab/gitlab-ce:17.2.0-ce.0
+docker.elastic.co/kibana/kibana:7.12.0
